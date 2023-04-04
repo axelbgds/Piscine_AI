@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my_minipack"
+version = "1.0.0"
+authors = [
+  { name="min-kang", email="min-kang@student.42nice.fr" },
+]
+description = "A mini package for 42 Piscine of A.I."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/glacecoding"
+"Bug Tracker" = "https://github.com/glacecoding"

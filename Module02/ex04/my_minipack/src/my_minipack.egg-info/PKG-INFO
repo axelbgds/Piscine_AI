@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: my-minipack
+Version: 1.0.0
+Summary: A mini package for 42 Piscine of A.I.
+Author-email: min-kang <min-kang@student.42nice.fr>
+Project-URL: Homepage, None
+Project-URL: Bug Tracker, None
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Coucou This is README file
+
+I made this mini package in order to practice Python, thank you for downloading it!
+And please follow my github ;-) (https://github.com/mgkgng)
