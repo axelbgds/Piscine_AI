@@ -1,1 +1,1 @@
-# 42Projects-Piscine_A.I.
+# Projects_A.I.
